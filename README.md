@@ -88,13 +88,147 @@ for event cameras,” arXiv preprint arXiv:2402.15584, 2024.
 - 
 
 ## Object Tracking
-
+- X. Wang, S. Wang, C. Tang, L. Zhu, B. Jiang, Y. Tian, and J. Tang,
+“Event stream-based visual object tracking: A high-resolution
+benchmark dataset and a novel baseline,” in Proceedings of the
+IEEE/CVF Conference on Computer Vision and Pattern Recognition,
+2024.
 
 ## Image Segmentation
 
 - **Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation** - arXiv:2404.04256  
   [Project & CODE](https://github.com/zifuwan/Sigma) | [Paper](https://arxiv.org/abs/2404.04256)
+  
+- Z. Xing, T. Ye, Y. Yang, G. Liu, and L. Zhu, “Segmamba: Long-
+range sequential modeling mamba for 3d medical image segmen-
+tation,” arXiv preprint arXiv:2401.13560, 2024.
 
+- J. Ma, F. Li, and B. Wang, “U-mamba: Enhancing long-range
+dependency for biomedical image segmentation,” arXiv preprint
+arXiv:2401.04722, 2024.
+
+- J. Liu, H. Yang, H.-Y. Zhou, Y. Xi, L. Yu, Y. Yu, Y. Liang,
+G. Shi, S. Zhang, H. Zheng et al., “Swin-umamba: Mamba-
+based unet with imagenet-based pretraining,” arXiv preprint
+arXiv:2402.03302, 2024.
+
+- J. Ruan and S. Xiang, “Vm-unet: Vision mamba unet for medical
+image segmentation,” arXiv preprint arXiv:2402.02491, 2024.
+H. Gong, L. Kang, Y. Wang, X. Wan, and H. Li, “nnmamba: 3d
+biomedical image segmentation, classification and landmark de-
+tection with state space model,” arXiv preprint arXiv:2402.03526, 2024.
+
+- Z. Wang, J.-Q. Zheng, Y. Zhang, G. Cui, and L. Li, “Mamba-unet:
+Unet-like pure visual mamba for medical image segmentation,”
+arXiv preprint arXiv:2402.05079, 2024.
+
+- Z. Wang and C. Ma, “Semi-mamba-unet: Pixel-level contrastive
+cross-supervised visual mamba-based unet for semi-supervised
+medical image segmentation,” arXiv preprint arXiv:2402.07245, 2024.
+
+- Z. Ye and T. Chen, “P-mamba: Marrying perona malik diffusion
+with mamba for efficient pediatric echocardiographic left ventric-
+ular segmentation,” arXiv preprint arXiv:2402.08506, 2024.
+
+- Z. Wang and C. Ma, “Weak-mamba-unet: Visual mamba makes
+cnn and vit work better for scribble-based medical image seg-
+mentation,” arXiv preprint arXiv:2402.10887, 2024.
+
+- H. Tang, L. Cheng, G. Huang, Z. Tan, J. Lu, and K. Wu, “Rotate
+to scan: Unet-like mamba with triplet ssm module for medical
+image segmentation,” arXiv preprint arXiv:2403.17701, 2024.
+
+- J. Wang, J. Chen, D. Chen, and J. Wu, “Large window-based
+mamba unet for medical image segmentation: Beyond convolu-
+tion and self-attention,” arXiv preprint arXiv:2403.07332, 2024.
+
+- W. Liao, Y. Zhu, X. Wang, C. Pan, Y. Wang, and L. Ma, “Lightm-
+unet: Mamba assists in lightweight unet for medical image seg-
+mentation,” arXiv preprint arXiv:2403.05246, 2024.
+
+- M. Zhang, Y. Yu, L. Gu, T. Lin, and X. Tao, “Vm-unet-v2 rethink-
+ing vision mamba unet for medical image segmentation,” arXiv
+preprint arXiv:2403.09157, 2024.
+
+- T. Huang, X. Pei, S. You, F. Wang, C. Qian, and C. Xu, “Local-
+mamba: Visual state space model with windowed selective scan,”
+arXiv preprint arXiv:2403.09338, 2024.
+
+- X. Pei, T. Huang, and C. Xu, “Efficientvmamba: Atrous se-
+lective scan for light weight visual mamba,” arXiv preprint
+arXiv:2403.09977, 2024.
+
+- Y. Yang, Z. Xing, and L. Zhu, “Vivim: a video vision
+mamba for medical video object segmentation,” arXiv preprint
+arXiv:2401.14168, 2024.
+
+- J. Xie, R. Liao, Z. Zhang, S. Yi, Y. Zhu, and G. Luo, “Pro-
+mamba: Prompt-mamba for polyp segmentation,” arXiv preprint
+arXiv:2403.13660, 2024.
+
+- R. Wu, Y. Liu, P. Liang, and Q. Chang, “H-vmunet: High-order
+vision mamba unet for medical image segmentation,” arXiv
+preprint arXiv:2403.13642, 2024.
+
+- C. Yang, Z. Chen, M. Espinosa, L. Ericsson, Z. Wang, J. Liu, and
+E. J. Crowley, “Plainmamba: Improving non-hierarchical mamba
+in visual recognition,” arXiv preprint arXiv:2403.17695, 2024.
+
+- K. S. Sanjid, M. T. Hossain, M. S. S. Junayed, and D. M. M. Uddin,
+“Integrating mamba sequence model and hierarchical upsam-
+pling network for accurate semantic segmentation of multiple
+sclerosis legion,” arXiv preprint arXiv:2403.17432, 2024.
+
+- J. Hao, L. He, and K. F. Hung, “T-mamba: Frequency-enhanced
+gated long-range dependency for tooth 3d cbct segmentation,”
+arXiv preprint arXiv:2404.01065, 2024.
+
+- J. Hao, L. He, and K. F. Hung, “T-mamba: Frequency-enhanced
+gated long-range dependency for tooth 3d cbct segmentation,”
+arXiv preprint arXiv:2404.01065, 2024.
+
+-  Y. Yang, C. Ma, J. Yao, Z. Zhong, Y. Zhang, and Y. Wang, “Remam-
+ber: Referring image segmentation with mamba twister,” arXiv
+preprint arXiv:2403.17839, 2024.
+
+- Q. Zhu, Y. Cai, Y. Fang, Y. Yang, C. Chen, L. Fan, and A. Nguyen,
+“Samba: Semantic segmentation of remotely sensed images with
+state space model,” arXiv preprint arXiv:2404.01705, 2024.
+
+- A. Behrouz, M. Santacatterina, and R. Zabih, “Mambamixer:
+Efficient selective state space models with dual token and channel
+selection,” arXiv preprint arXiv:2403.19888, 2024.
+
+- R. Wu, Y. Liu, P. Liang, and Q. Chang, “Ultralight vm-unet:
+Parallel vision mamba significantly reduces parameters for skin
+lesion segmentation,” arXiv preprint arXiv:2403.20035, 2024.
+
+- A. Archit and C. Pape, “Vim-unet: Vision mamba for biomedical
+segmentation,” arXiv preprint arXiv:2404.07705, 2024.
+
+- A. Ali, I. Zimerman, and L. Wolf, “The hidden attention of
+mamba models,” arXiv preprint arXiv:2403.01590, 2024.
+
+- Z. Wan, Y. Wang, S. Yong, P. Zhang, S. Stepputtis, K. Sycara,
+and Y. Xie, “Sigma: Siamese mamba network for multi-modal
+semantic segmentation,” arXiv preprint arXiv:2404.04256, 2024.
+
+- D. Liang, X. Zhou, X. Wang, X. Zhu, W. Xu, Z. Zou, X. Ye, and
+X. Bai, “Pointmamba: A simple state space model for point cloud
+analysis,” arXiv preprint arXiv:2402.10739, 2024.
+
+- T. Zhang, X. Li, H. Yuan, S. Ji, and S. Yan, “Point cloud mamba:
+Point cloud learning via state space model,” arXiv preprint
+arXiv:2403.00762, 2024.
+
+- J. Liu, R. Yu, Y. Wang, Y. Zheng, T. Deng, W. Ye, and H. Wang,
+“Point mamba: A novel point cloud backbone based on state
+space model with octree-based ordering strategy,” arXiv preprint
+arXiv:2403.06467, 2024.
+
+- B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-
+based architecture for vision and multivariate time series,” arXiv
+preprint arXiv:2403.15360, 2024.
 
 ## Medical Imaging
 
