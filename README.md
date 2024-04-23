@@ -49,7 +49,43 @@
 
 
 ## Object Detection
+- H. Gong, L. Kang, Y. Wang, X. Wan, and H. Li, “nnmamba: 3d
+biomedical image segmentation, classification and landmark de-
+tection with state space model,” arXiv preprint arXiv:2402.03526, 2024.
+  
+- T. Chen, Z. Tan, T. Gong, Q. Chu, Y. Wu, B. Liu, J. Ye, and N. Yu,
+“Mim-istd: Mamba-in-mamba for efficient infrared small target
+detection,” arXiv preprint arXiv:2403.02148, 2024.
 
+- T. Huang, X. Pei, S. You, F. Wang, C. Qian, and C. Xu, “Local-
+mamba: Visual state space model with windowed selective scan,”
+arXiv preprint arXiv:2403.09338, 2024.
+
+- X. Pei, T. Huang, and C. Xu, “Efficientvmamba: Atrous se-
+lective scan for light weight visual mamba,” arXiv preprint
+arXiv:2403.09977, 2024.
+
+- C. Yang, Z. Chen, M. Espinosa, L. Ericsson, Z. Wang, J. Liu, and
+E. J. Crowley, “Plainmamba: Improving non-hierarchical mamba
+in visual recognition,” arXiv preprint arXiv:2403.17695, 2024.
+
+- H. Chen, J. Song, C. Han, J. Xia, and N. Yokoya, “Changemamba:
+Remote sensing change detection with spatio-temporal state
+space model,” arXiv preprint arXiv:2404.03425, 2024.
+
+- A. Behrouz, M. Santacatterina, and R. Zabih, “Mambamixer:
+Efficient selective state space models with dual token and channel
+selection,” arXiv preprint arXiv:2403.19888, 2024.
+
+- H. He, Y. Bai, J. Zhang, Q. He, H. Chen, Z. Gan, C. Wang, X. Li,
+G. Tian, and L. Xie, “Mambaad: Exploring state space models
+for multi-class unsupervised anomaly detection,” arXiv preprint
+arXiv:2404.06564, 2024.
+
+- N. Zubi’c, M. Gehrig, and D. Scaramuzza, “State space models
+for event cameras,” arXiv preprint arXiv:2402.15584, 2024.
+
+- 
 
 ## Object Tracking
 
