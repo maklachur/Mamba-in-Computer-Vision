@@ -69,10 +69,6 @@ arXiv:2403.09977, 2024.
 E. J. Crowley, “Plainmamba: Improving non-hierarchical mamba
 in visual recognition,” arXiv preprint arXiv:2403.17695, 2024.
 
-- H. Chen, J. Song, C. Han, J. Xia, and N. Yokoya, “Changemamba:
-Remote sensing change detection with spatio-temporal state
-space model,” arXiv preprint arXiv:2404.03425, 2024.
-
 - A. Behrouz, M. Santacatterina, and R. Zabih, “Mambamixer:
 Efficient selective state space models with dual token and channel
 selection,” arXiv preprint arXiv:2403.19888, 2024.
