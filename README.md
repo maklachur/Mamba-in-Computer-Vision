@@ -72,21 +72,21 @@
 ## Generation and Restoration
 
 - **DiM-3D: Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs** - June 7, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.05038)]
-- **DiM2: Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation** - May 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.15881)]
 - **Dimba: Transformer-Mamba Diffusion Models** - June 3, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.01159)] [[Homepage](https://dimba-project.github.io/)] [[Code](https://github.com/feizc/Dimba)] ![Stars](https://img.shields.io/github/stars/feizc/Dimba)
-- **GMSR: Gradient-Guided Mamba for Spectral Reconstruction from RGB Images** - May 13, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.07777)] [[Code](https://github.com/wxy11-27/GMSR)] ![Stars](https://img.shields.io/github/stars/wxy11-27/GMSR)
-- **DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14224)] [[Code](https://github.com/tyshiwo1/DiM-DiffusionMamba/)] ![Stars](https://img.shields.io/github/stars/tyshiwo1/DiM-DiffusionMamba)
 - **UniTraj: Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent** - May 27, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.17680)] [[Code](https://github.com/colorfulfuture/UniTraj-pytorch)] ![Stars](https://img.shields.io/github/stars/colorfulfuture/UniTraj-pytorch)
+- **DiM2: Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation** - May 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.15881)]
+- **DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14224)] [[Code](https://github.com/tyshiwo1/DiM-DiffusionMamba/)] ![Stars](https://img.shields.io/github/stars/tyshiwo1/DiM-DiffusionMamba)
+-  **GMSR: Gradient-Guided Mamba for Spectral Reconstruction from RGB Images** - May 13, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.07777)] [[Code](https://github.com/wxy11-27/GMSR)] ![Stars](https://img.shields.io/github/stars/wxy11-27/GMSR)
 - **CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration** - April 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.11778)]
 - **ZigMa: A DiT-style Zigzag Mamba Diffusion Model** - April 1, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.13802)] [[Homepage](https://taohu.me/zigma/)] [[Code](https://github.com/CompVis/zigma)] ![Stars](https://img.shields.io/github/stars/CompVis/zigma)
 - **T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation** - April 1, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.01065)] [[Code](https://github.com/isbrycee/T-Mamba)] ![Stars](https://img.shields.io/github/stars/isbrycee/T-Mamba)
 - **Gamba: Marry Gaussian Splatting with Mamba for Single View 3D Reconstruction** - March 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.18795)]
+- **Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.17902)]
 - **MambaIR: A Simple Baseline for Image Restoration with State-Space Model** - March 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.15648)] [[Code](https://github.com/csguoh/MambaIR)] ![Stars](https://img.shields.io/github/stars/csguoh/MambaIR)
 - **MotionMamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM** - March 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.07487)] [[Homepage](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[Code](https://github.com/steve-zeyu-zhang/MotionMamba/)] ![Stars](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionMamba)
 - **VmambaIR: Visual State Space Model for Image Restoration** - March 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.11423)] [[Code](https://github.com/AlphacatPlus/VmambaIR)] ![Stars](https://img.shields.io/github/stars/AlphacatPlus/VmambaIR)
-- **Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.17902)]
-- **DiS: Scalable Diffusion Models with State Space Backbone** - February 8, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.05608)] [[Code](https://github.com/feizc/DiS)] ![Stars](https://img.shields.io/github/stars/feizc/DiS)
 - **MMA: Activating Wider Areas in Image Super-Resolution** - March 13, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.08330)] [[Code]([https://github.com/MMA-Lab/MMA](https://github.com/ArsenalCheng/MMA))] ![Stars](https://img.shields.io/github/stars/ArsenalCheng/MMA)
+- **DiS: Scalable Diffusion Models with State Space Backbone** - February 8, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.05608)] [[Code](https://github.com/feizc/DiS)] ![Stars](https://img.shields.io/github/stars/feizc/DiS)
 
 ## Point Cloud Analysis
 
@@ -117,26 +117,25 @@
 - **ViS4mer: Video Synthesis Framework with Mamba-Based Attention Mechanism** - ECCV 2022 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_6)] [[Code](https://github.com/md-mohaiminul/ViS4mer)] ![Stars](https://img.shields.io/github/stars/md-mohaiminul/ViS4mer)
 
 ## Remote Sensing
-
+- **Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images** - June 20, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.14086)] [[Code](https://github.com/zhuqinfeng1999/Seg-LSTM)] ![Stars](https://img.shields.io/github/stars/zhuqinfeng1999/Seg-LSTM)
 - **PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery** - June 16, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.10828)] [[Code](https://github.com/WangLibo1995/GeoSeg)] ![Stars](https://img.shields.io/github/stars/WangLibo1995/GeoSeg)
 - **CDMamba: Remote Sensing Image Change Detection with Mamba** - June 6, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.04207)] [[Code](https://github.com/zmoka-zht/CDMamba)] ![Stars](https://img.shields.io/github/stars/zmoka-zht/CDMamba)
-- **RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing** - May 16, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.10030)]
+- **3DSS-Mamba: 3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification** - May 21, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.12487)]
 - **CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation** - May 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.10530)] [[Code](https://github.com/XiaoBuL/CM-UNet)] ![Stars](https://img.shields.io/github/stars/XiaoBuL/CM-UNet)
+- **RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing** - May 16, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.10030)]
 - **FMSR: Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution** - May 8, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.04964)]
 - **RSCaMa: Remote Sensing Image Change Captioning with State Space Model** - May 2, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.18895)] [[Code](https://github.com/Chen-Yang-Liu/RSCaMa)] ![Stars](https://img.shields.io/github/stars/Chen-Yang-Liu/RSCaMa)
-- **RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation** - April 3, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.02457)] [[Code](https://github.com/sstary/SSRS)] ![Stars](https://img.shields.io/github/stars/sstary/SSRS)
-- **ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model** - April 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.03425)] [[Code](https://github.com/ChenHongruixuan/MambaCD)] ![Stars](https://img.shields.io/github/stars/ChenHongruixuan/MambaCD)
+- **SS-Mamba: Spectral-Spatial Mamba for Hyperspectral Image Classification** - April 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.18401)]
+- **S^2 Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification** - April 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.18213)] [[Code](https://github.com/PURE-melo/S2Mamba)] ![Stars](https://img.shields.io/github/stars/PURE-melo/S2Mamba)
 - **HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising** - April 15, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.09697)]
+- **ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model** - April 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.03425)] [[Code](https://github.com/ChenHongruixuan/MambaCD)] ![Stars](https://img.shields.io/github/stars/ChenHongruixuan/MambaCD)
 - **SpectralMamba: Efficient Mamba for Hyperspectral Image Classification** - April 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.08489)] [[Code](https://github.com/danfenghong/SpectralMamba)] ![Stars](https://img.shields.io/github/stars/danfenghong/SpectralMamba)
 - **Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model** - April 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.01705)] [[Code](https://github.com/zhuqinfeng1999/Samba)] ![Stars](https://img.shields.io/github/stars/zhuqinfeng1999/Samba)
-- **SS-Mamba: Spectral-Spatial Mamba for Hyperspectral Image Classification** - April 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.18401)]
-- **3DSS-Mamba: 3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification** - May 21, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.12487)]
-- **S^2 Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification** - April 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.18213)] [[Code](https://github.com/PURE-melo/S2Mamba)] ![Stars](https://img.shields.io/github/stars/PURE-melo/S2Mamba)
+- **RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation** - April 3, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.02457)] [[Code](https://github.com/sstary/SSRS)] ![Stars](https://img.shields.io/github/stars/sstary/SSRS)
 - **RS-Mamba: Remote Sensing Image Classification with State Space Model** - March 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.19654)]
 - **RSMamba: Remote Sensing Image Classification with State Space Model** - March 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.19654)]
 - **Pan-Mamba: Effective Pan-sharpening with State Space Model** - March 8, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.12192)] [[Code](https://github.com/alexhe101/Pan-Mamba)] ![Stars](https://img.shields.io/github/stars/alexhe101/Pan-Mamba)
 - **LE-Mamba: Local Enhancement and Mamba-based Architecture for Remote Sensing Image Super-Resolution** - February 21, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.09293)] [[Code](https://github.com/294coder/Efficient-MIF)] ![Stars](https://img.shields.io/github/stars/294coder/Efficient-MIF)
-- **Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images** - June 20, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.14086)] [[Code](https://github.com/zhuqinfeng1999/Seg-LSTM)] ![Stars](https://img.shields.io/github/stars/zhuqinfeng1999/Seg-LSTM)
 - **VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting** - CVPRW 2024 [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/PRECOGNITION/html/Tang_VMRNN_Integrating_Vision_Mamba_and_LSTM_for_Efficient_and_Accurate_CVPRW_2024_paper.html)] [[Code]([https://github.com/VMRNN/VMRNN](https://github.com/yyyujintang/VMRNN-PyTorch))] ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
 
 ## Medical Image Analysis
