@@ -69,7 +69,7 @@
 - **FDVM-Net: FD-Vision Mamba for Endoscopic Exposure Correction** - February 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.06378)] [[Code](https://github.com/zzr-idam/FDV-NET)]
 
 
-## Image Generation and Restoration
+## Generation and Restoration
 
 - **DiM-3D: Diffusion Mamba for 3D Image Synthesis** - July 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.13009)] [[Code](https://github.com/DiM-3D/DiM-3D)]
 - **DiM2: Enhanced Diffusion Mamba for High-Fidelity Image Generation** - July 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.10985)] [[Code](https://github.com/DiM2-Lab/DiM2)]
@@ -151,8 +151,8 @@
 - **MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology** - March 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.06800)] [[Code](https://github.com/isyangshu/MambaMIL)]
 - **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.09417)] [[Code](https://github.com/hustvl/Vim)]
 
-### Medical Image Segmentation
-#### 2D Medical Image Segmentation
+### Medical Image Segmentation  
+#### Medical 2D Image Segmentation
 
 - **xLSTM-UNet: Integrating Long Short-Term Memory Networks with UNet for Medical Image Segmentation** - July 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.08593)] [[Code](https://github.com/xLSTM-UNet/xLSTM-UNet)]
 - **MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba** - June 9, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.05992)] [[Code](https://github.com/PixDeep/MHS-VM)]
@@ -173,7 +173,7 @@
 - **Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation** - March 30, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.05079)] [[Code](https://github.com/ziyangwang007/Mamba-UNet)]
 - **U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation** - January 9, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.04722)] [[Homepage](https://wanglab.ai/u-mamba.html)] [[Code](https://github.com/bowang-lab/U-Mamba)]
 
-## 3D Medical Image Segmentation
+## Medical 3D Image Segmentation
 
 - **TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction for 3D Medical Image Segmentation** - July 27, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.15584)] [[Code](https://github.com/ydchen0806/TokenUnify)]
 - **Vivim: a Video Vision Mamba for Medical Video Object Segmentation** - March 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.14168)] [[Code](https://github.com/scott-yjyang/Vivim)]
