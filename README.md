@@ -15,6 +15,7 @@
   - [Medical Image Reconstruction](#medical-image-reconstruction)
   - [Other Tasks in Medical Imaging](#other-tasks-in-medical-imaging)
 - [Multimodal](#multimodal)
+- [Other Tasks](#other-tasks)
 
 ## General Purpose
 
@@ -223,3 +224,5 @@
 - **TM-Mamba: Text-Mamba for Multimodal Knowledge Alignment and Retrieval** - February 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.09458)] [[Code](https://github.com/tm-mamba/TM-Mamba)] ![Stars](https://img.shields.io/github/stars/tm-mamba/TM-Mamba)
 - **MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion** - April 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.08406)]
 
+## Other Tasks
+Will be added ... 
