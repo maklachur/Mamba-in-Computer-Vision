@@ -142,7 +142,7 @@
 ### Medical Image Classification
 
 - **Nasiri-Sarvi et al. (2024): AI-Based Breast Cancer Detection Using State Space Models** - July 15, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.06784)]
-- **Vim4Path: Vision Mamba Framework for Computational Pathology** - June 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.13748)] [[Code](https://github.com/vim4path/Vim4Path)] ![Stars](https://img.shields.io/github/stars/vim4path/Vim4Path)
+- **Vim4Path: Self-Supervised Vision Mamba for Histopathology Images** - CVPR 2024 [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/CVMI/html/Nasiri-Sarvi_Vim4Path_Self-Supervised_Vision_Mamba_for_Histopathology_Images_CVPRW_2024_paper.html)] [[Code](https://github.com/AtlasAnalyticsLab/Vim4Path)] ![Stars](https://img.shields.io/github/stars/AtlasAnalyticsLab/Vim4Path)
 - **MedMamba: Vision Mamba for Medical Image Classification** - April 2, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.03849)] [[Code](https://github.com/YubiaoYue/MedMamba)] ![Stars](https://img.shields.io/github/stars/YubiaoYue/MedMamba)
 - **CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD Classification** - March 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.16520)]
 - **MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology** - March 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.06800)] [[Code](https://github.com/isyangshu/MambaMIL)] ![Stars](https://img.shields.io/github/stars/isyangshu/MambaMIL)
@@ -152,13 +152,13 @@
 ### Medical Image Segmentation  
 #### Medical 2D Image Segmentation
 
-- **xLSTM-UNet: Integrating Long Short-Term Memory Networks with UNet for Medical Image Segmentation** - July 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.08593)] [[Code](https://github.com/xLSTM-UNet/xLSTM-UNet)] ![Stars](https://img.shields.io/github/stars/xLSTM-UNet/xLSTM-UNet)
-- **SliceMamba: Vision Mamba-based Sliced Representation for 2D Medical Image Segmentation** - June 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.08321)] [[Code](https://github.com/SliceMamba/SliceMamba)] ![Stars](https://img.shields.io/github/stars/SliceMamba/SliceMamba)
+- **SliceMamba with Neural Architecture Search for Medical Image Segmentation** - July 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.08481)]
+- **xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart** - July 1, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.01530)] [[Code](https://tianrun-chen.github.io/xLSTM-UNet)] ![Stars](https://img.shields.io/github/stars/tianrun-chen/xLSTM-UNet-Pytorch)
 - **MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba** - June 9, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.05992)] [[Code](https://github.com/PixDeep/MHS-VM)] ![Stars](https://img.shields.io/github/stars/PixDeep/MHS-VM)
 - **MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation** - May 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.15925)] [[Code](https://github.com/chunyuyuan/MUCM-Net)] ![Stars](https://img.shields.io/github/stars/chunyuyuan/MUCM-Net)
 - **AC-MambaSeg: An Adaptive Convolution and Mamba-based Architecture for Enhanced Skin Lesion Segmentation** - May 5, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.03011)] [[Code](https://github.com/vietthanh2710/AC-MambaSeg)] ![Stars](https://img.shields.io/github/stars/vietthanh2710/AC-MambaSeg)
 - **HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation** - May 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.05007)]
-- **ViM-UNet: Vision Mamba Integrated UNet for Accurate Medical Image Segmentation** - April 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.09783)] [[Code](https://github.com/ViM-UNet/ViM-UNet)] ![Stars](https://img.shields.io/github/stars/ViM-UNet/ViM-UNet)
+- **ViM-UNet: Vision Mamba in Biomedical Segmentation** - April 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.07705)] [[Code](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)] ![Stars](https://img.shields.io/github/stars/constantinpape/torch-em/blob/main/vimunet.md)
 - **UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation** - April 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.20035)] [[Code](https://github.com/wurenkai/UltraLight-VM-UNet)] ![Stars](https://img.shields.io/github/stars/wurenkai/UltraLight-VM-UNet)
 - **H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation** - March 20, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.13642)] [[Code](https://github.com/wurenkai/H-vmunet)] ![Stars](https://img.shields.io/github/stars/wurenkai/H-vmunet)
 - **ProMamba: Prompt-Mamba for Polyp Segmentation** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.13660)]
@@ -174,20 +174,21 @@
 ## Medical 3D Image Segmentation
 
 - **TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction for 3D Medical Image Segmentation** - July 27, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.15584)] [[Code](https://github.com/ydchen0806/TokenUnify)] ![Stars](https://img.shields.io/github/stars/ydchen0806/TokenUnify)
+- **xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart** - July 1, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.01530)] [[Code](https://tianrun-chen.github.io/xLSTM-UNet)] ![Stars](https://img.shields.io/github/stars/tianrun-chen/xLSTM-UNet-Pytorch)
 - **T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation** - April 1, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.01065)] [[Code](https://github.com/isbrycee/T-Mamba)] ![Stars](https://img.shields.io/github/stars/isbrycee/T-Mamba)
-- **LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation** - March 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.05246)] [[Code](https://github.com/MrBlankness/LightM-UNet)] ![Stars](https://img.shields.io/github/stars/MrBlankness/LightM-UNet)
+- **Mamba-HUNet: Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.17432)]
+- **Triplet Mamba-UNet (TM-UNet) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.17701)]
 - **Vivim: a Video Vision Mamba for Medical Video Object Segmentation** - March 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.14168)] [[Code](https://github.com/scott-yjyang/Vivim)] ![Stars](https://img.shields.io/github/stars/scott-yjyang/Vivim)
+- **LKM-UNet: Light and Knowledge-aware Mamba UNet for Faster and Accurate 3D Image Segmentation** - March 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.07332)] [[Code](https://github.com/wjh892521292/LKM-UNet)] ![Stars](https://img.shields.io/github/stars/wjh892521292/LKM-UNet)
+- **LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation** - March 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.05246)] [[Code](https://github.com/MrBlankness/LightM-UNet)] ![Stars](https://img.shields.io/github/stars/MrBlankness/LightM-UNet)
 - **nnMamba: 3D Biomedical Image Segmentation, Classification, and Landmark Detection with State Space Model** - March 10, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.03526)] [[Code](https://github.com/lhaof/nnMamba)] ![Stars](https://img.shields.io/github/stars/lhaof/nnMamba)
 - **SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation** - February 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.13560)] [[Code](https://github.com/ge-xing/SegMamba)] ![Stars](https://img.shields.io/github/stars/ge-xing/SegMamba)
-- **Mamba-HUNet: Hybrid UNet Based on Mamba for Multi-modal Brain Tumor Segmentation** - February 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.09217)] [[Code](https://github.com/Hybrid-UNet/Mamba-HUNet)] ![Stars](https://img.shields.io/github/stars/Hybrid-UNet/Mamba-HUNet)
-- **TM-UNet: Transformer Mamba Integrated UNet for Efficient 3D Medical Image Segmentation** - February 15, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.09012)] [[Code](https://github.com/Transform-Mamba/TM-UNet)] ![Stars](https://img.shields.io/github/stars/Transform-Mamba/TM-UNet)
-- **LKM-UNet: Light and Knowledge-aware Mamba UNet for Faster and Accurate 3D Image Segmentation** - February 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.08629)] [[Code](https://github.com/LKM-UNet/LKM-UNet)] ![Stars](https://img.shields.io/github/stars/LKM-UNet/LKM-UNet)
-
+  
 ## Medical Image Reconstruction
 
 - **MMR-Mamba: Multi-Modal MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion** - June 27, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.18950)]
-- **MambaMIR-GAN: Generative Adversarial Network-based Mamba for Enhanced Medical Image Reconstruction** - March 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.13897)] [[Code](https://github.com/MambaMIR/MambaMIR-GAN)] ![Stars](https://img.shields.io/github/stars/MambaMIR/MambaMIR-GAN)
-- **MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation** - March 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.18451)] [[Code](https://github.com/ShumengLI/Mamba4MIS)] ![Stars](https://img.shields.io/github/stars/ShumengLI/Mamba4MIS)
+- **MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation** - March 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.18451)] [[Code](https://github.com/ShumengLI/Mamba4MIS)]
+- **MambaMIR-GAN: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation** - February 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.18451)] [[Code](https://github.com/ayanglab/MambaMIR)]
 
 ### Other Tasks in Medical Imaging
 
@@ -203,12 +204,15 @@
 
 ## MultiModal
 
+- **TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery** - July 8, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.05736)] [[Code](https://github.com/wklix/TransMA)] ![Stars](https://img.shields.io/github/stars/wklix/TransMA)
 - **Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models** - May 27, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.15574)] [[Code](https://github.com/ByungKwanLee/Meteor)] ![Stars](https://img.shields.io/github/stars/ByungKwanLee/Meteor)
 - **Mamba-FETrack: Frame-Event Tracking via State Space Model** - April 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.18174)] [[Code](https://github.com/Event-AHU/Mamba_FETrack)] ![Stars](https://img.shields.io/github/stars/Event-AHU/Mamba_FETrack)
-- **TransMA: A Transformer-based Multi-modal Mamba Architecture for Efficient Cross-modal Retrieval** - April 18, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.09156)] [[Code](https://github.com/TransMA/TransMA)] ![Stars](https://img.shields.io/github/stars/TransMA/TransMA)
+- **Broad Mamba: Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion** - April 27, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.17858)] 
+- **TM-Mamba: Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion** - April 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.11375)] 
+- **MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion** - April 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.08406)]
+-  **FusionMamba: Efficient Image Fusion with State Space Model** - April 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.07932)]
+-  **SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction** - April 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.08027)]
 - **Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation** - April 5, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.04256)] [[Code](https://github.com/zifuwan/Sigma)] ![Stars](https://img.shields.io/github/stars/zifuwan/Sigma)
-- **FusionMamba: Efficient Image Fusion with State Space Model** - April 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.07932)]
-- **SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction** - April 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.08027)]
 - **SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding** - April 1, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.01174)]
 - **ReMamber: Referring Image Segmentation with Mamba Twister** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.17839)]
 - **CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification** - March 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.16520)]
@@ -216,9 +220,6 @@
 - **VL-Mamba: Exploring State Space Models for Multimodal Learning** - March 20, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.13600)] [[Homepage](https://yanyuanqiao.github.io/vl-mamba/)] [[Code](https://github.com/ZhengYu518/VL-Mamba)] ![Stars](https://img.shields.io/github/stars/ZhengYu518/VL-Mamba)
 - **MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models** - March 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.09471)]
 - **MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration** - March 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.13934)] [[Code](https://github.com/Guo-Stone/MambaMorph)] ![Stars](https://img.shields.io/github/stars/Guo-Stone/MambaMorph)
-- **BoardMamba: Multi-modal Mamba for Table Understanding and Interaction** - March 5, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.05168)] [[Code](https://github.com/board-mamba/BoardMamba)] ![Stars](https://img.shields.io/github/stars/board-mamba/BoardMamba)
-- **TM-Mamba: Text-Mamba for Multimodal Knowledge Alignment and Retrieval** - February 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.09458)] [[Code](https://github.com/tm-mamba/TM-Mamba)] ![Stars](https://img.shields.io/github/stars/tm-mamba/TM-Mamba)
-- **MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion** - April 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.08406)]
 
 ## Other Tasks
-Will be added ... 
+Will be updated... 
