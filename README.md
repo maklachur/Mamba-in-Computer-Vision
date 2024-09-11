@@ -23,10 +23,10 @@
 - **MSVMamba: Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14174)] [[Code](https://github.com/YuHengsss/MSVMamba)] ![Stars](https://img.shields.io/github/stars/YuHengsss/MSVMamba)
 - **Mamba-R: Vision Mamba ALSO Needs Registers** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14858)] [[Homepage](https://wangf3014.github.io/mambar-page/)] [[Code](https://github.com/wangf3014/Mamba-Reg)] ![Stars](https://img.shields.io/github/stars/wangf3014/Mamba-Reg)
 - **Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain** - May 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.18679)] [[Code](https://github.com/yws-wxs/Vim-F)] ![Stars](https://img.shields.io/github/stars/yws-wxs/Vim-F)
-- **Heracles: Efficient Vision Mamba for Edge Computing** - May 1, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.01526)] [[Code](https://github.com/EfficientEdge/Heracles)] ![Stars](https://img.shields.io/github/stars/EfficientEdge/Heracles)
 - **SUM: Saliency Unification through Mamba for Visual Attention Modeling** - April 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.17815)] [[Code](https://github.com/Arhosseini77/SUM)] ![Stars](https://img.shields.io/github/stars/Arhosseini77/SUM)
 - **SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time Series** - April 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.15360)] [[Code](https://github.com/badripatro/Simba)] ![Stars](https://img.shields.io/github/stars/badripatro/Simba)
-- **MambaMixer: Visual State Space Model using Mixup Techniques for Robust Representation Learning** - April 20, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.15005)] [[Code](https://github.com/mamba-research-group/MambaMixer)] ![Stars](https://img.shields.io/github/stars/mamba-research-group/MambaMixer)
+- **MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection** - Mar 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.19888)] [[Code](https://github.com/MambaMixer/M2)] ![Stars](https://img.shields.io/github/stars/MambaMixer/M2)
+- **Heracles: A Hybrid SSM-Transformer Model for High-Resolution Image and Time-Series Analysis** - Mar 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.18063)] [[Code](https://github.com/badripatro/heracles)] ![Stars](https://img.shields.io/github/stars/badripatro/heracles)
 - **PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.17695)] [[Code](https://github.com/ChenhongyiYang/PlainMamba)] ![Stars](https://img.shields.io/github/stars/ChenhongyiYang/PlainMamba)
 - **EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba** - March 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.09977)] [[Code](https://github.com/TerryPei/EfficientVMamba)] ![Stars](https://img.shields.io/github/stars/TerryPei/EfficientVMamba)
 - **LocalMamba: Visual State Space Model with Windowed Selective Scan** - March 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.09338)] [[Code](https://github.com/hunto/LocalMamba)] ![Stars](https://img.shields.io/github/stars/hunto/LocalMamba)
@@ -34,7 +34,7 @@
 - **VMamba: Visual State Space Model** - January 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.10166)] [[Code](https://github.com/MzeroMiko/VMamba)] ![Stars](https://img.shields.io/github/stars/MzeroMiko/VMamba)
 - **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.09417)] [[Code](https://github.com/hustvl/Vim)] ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
 
-## Image Classification, Object Detection, and Segmentation
+## Image Classification, Object Detection, and Segmentation (General)
 
 ### Image Classification
 - **Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning** - April 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.15761)] [[Code](https://github.com/ChiShengChen/ResVMamba)] ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba)
@@ -54,16 +54,16 @@
 
 ## Image Enhancement
 
-- **MambaUIE&SR: Mamba-Based Unified Image Enhancement and Super-Resolution Model** - July 20, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.10895)] [[Code](https://github.com/mamba-lab/MambaUIE-SR)] ![Stars](https://img.shields.io/github/stars/mamba-lab/MambaUIE-SR)
-- **SRODT: Spectral Reconstruction Optimization with Diffusion Transformer and Mamba** - July 10, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.07022)] [[Code](https://github.com/srodt2024/srodt-mamba)] ![Stars](https://img.shields.io/github/stars/srodt2024/srodt-mamba)
-- **BVI-RLV: Bidirectional Vision Mamba for Real-time Low-light Video Enhancement** - July 1, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.05089)] [[Code](https://github.com/BVI-RLV/BVI-RLV)] ![Stars](https://img.shields.io/github/stars/BVI-RLV/BVI-RLV)
-- **WaterMamba: A Mamba-based Model for Underwater Image Enhancement** - June 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.12345)] [[Code](https://github.com/Underwater-Mamba/WaterMamba)] ![Stars](https://img.shields.io/github/stars/Underwater-Mamba/WaterMamba)
-- **HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model** - June 9, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.05700)] [[Code](https://github.com/RsAI-lab/HDMba)] ![Stars](https://img.shields.io/github/stars/RsAI-lab/HDMba)
-- **LFMamba: Light Field Image Super-Resolution with State Space Model** - June 18, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.12463)] [[Code](https://github.com/LF-Mamba/LFMamba)] ![Stars](https://img.shields.io/github/stars/LF-Mamba/LFMamba)
+- **BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement** - July 3, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.03535)] [[Code](https://ieee-dataport.org/open-access/bvi-lowlight-fully-registered-datasets-low-light-image-and-video-enhancement)] ![Stars](https://img.shields.io/github/stars/russellllaputa/BVI-Mamba)
+- **MLFSR: Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning** - June 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.16083)]
+- **LFMamba: Light Field Image Super-Resolution with State Space Model** - June 18, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.12463)]
+- **HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model** - June 9, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.12463)] [[Code](https://github.com/RsAI-lab/HDMba)] ![Stars](https://img.shields.io/github/stars/RsAI-lab/HDMba)
+- **WaterMamba: Visual State Space Model for Underwater Image Enhancement** - May 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.08419)]
 - **DVMSR: Distillated Vision Mamba for Efficient Super-Resolution** - May 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.03008)] [[Code](https://github.com/nathan66666/DVMSR)] ![Stars](https://img.shields.io/github/stars/nathan66666/DVMSR)
 - **FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining** - May 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.19450)]
 - **RetinexMamba: Retinex-based Mamba for Low-light Image Enhancement** - May 6, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.03349)] [[Code](https://github.com/YhuoyuH/RetinexMamba)] ![Stars](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba)
-- **MLFSR: Multi-Level Feature Fusion Mamba for Image Super-Resolution** - April 15, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.12800)] [[Code](https://github.com/MLFSR-2024/MLFSR)] ![Stars](https://img.shields.io/github/stars/MLFSR-2024/MLFSR)
+- **SRODT: Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model** - April 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.07022)]
+-  **MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 GFLOPs** - April 22, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.13884)] [[Code](https://github.com/1024AILab/MambaUIE)] ![Stars](https://img.shields.io/github/stars/1024AILab/MambaUIE)
 - **PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement** - April 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.08444)] [[Code](https://github.com/weitunglin/pixmamba)] ![Stars](https://img.shields.io/github/stars/weitunglin/pixmamba)
 - **LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network** - March 3, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.01028)]
 - **UVM-Net: U-shaped Vision Mamba for Single Image Dehazing** - February 15, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.04139)] [[Code](https://github.com/zzr-idam/UVM-Net)] ![Stars](https://img.shields.io/github/stars/zzr-idam/UVM-Net)
@@ -71,8 +71,8 @@
 
 ## Generation and Restoration
 
-- **DiM-3D: Diffusion Mamba for 3D Image Synthesis** - July 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.13009)] [[Code](https://github.com/DiM-3D/DiM-3D)] ![Stars](https://img.shields.io/github/stars/DiM-3D/DiM-3D)
-- **DiM2: Enhanced Diffusion Mamba for High-Fidelity Image Generation** - July 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.10985)] [[Code](https://github.com/DiM2-Lab/DiM2)] ![Stars](https://img.shields.io/github/stars/DiM2-Lab/DiM2)
+- **DiM-3D: Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs** - June 7, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.05038)]
+- **DiM2: Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation** - May 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.15881)]
 - **Dimba: Transformer-Mamba Diffusion Models** - June 3, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.01159)] [[Homepage](https://dimba-project.github.io/)] [[Code](https://github.com/feizc/Dimba)] ![Stars](https://img.shields.io/github/stars/feizc/Dimba)
 - **GMSR: Gradient-Guided Mamba for Spectral Reconstruction from RGB Images** - May 13, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.07777)] [[Code](https://github.com/wxy11-27/GMSR)] ![Stars](https://img.shields.io/github/stars/wxy11-27/GMSR)
 - **DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14224)] [[Code](https://github.com/tyshiwo1/DiM-DiffusionMamba/)] ![Stars](https://img.shields.io/github/stars/tyshiwo1/DiM-DiffusionMamba)
@@ -83,11 +83,10 @@
 - **Gamba: Marry Gaussian Splatting with Mamba for Single View 3D Reconstruction** - March 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.18795)]
 - **MambaIR: A Simple Baseline for Image Restoration with State-Space Model** - March 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.15648)] [[Code](https://github.com/csguoh/MambaIR)] ![Stars](https://img.shields.io/github/stars/csguoh/MambaIR)
 - **MotionMamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM** - March 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.07487)] [[Homepage](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[Code](https://github.com/steve-zeyu-zhang/MotionMamba/)] ![Stars](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionMamba)
-- **MambaMIR-GAN: Generative Adversarial Network-based Mamba for Enhanced Medical Image Reconstruction** - March 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.13897)] [[Code](https://github.com/MambaMIR/MambaMIR-GAN)] ![Stars](https://img.shields.io/github/stars/MambaMIR/MambaMIR-GAN)
 - **VmambaIR: Visual State Space Model for Image Restoration** - March 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.11423)] [[Code](https://github.com/AlphacatPlus/VmambaIR)] ![Stars](https://img.shields.io/github/stars/AlphacatPlus/VmambaIR)
-- **Serpent: State Space Model Based Image Restoration for Artifact Removal** - February 18, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.07123)] [[Code](https://github.com/Serpent-SSM/Serpent)] ![Stars](https://img.shields.io/github/stars/Serpent-SSM/Serpent)
-- **DiS: Diffusion Image Synthesis with Mamba-enhanced Strategy** - February 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.09213)] [[Code](https://github.com/DiS-Mamba/DiS)] ![Stars](https://img.shields.io/github/stars/DiS-Mamba/DiS)
-- **MMA: Multi-modal Mamba Autoencoder for Medical Image Restoration** - February 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.06340)] [[Code](https://github.com/MMA-Lab/MMA)] ![Stars](https://img.shields.io/github/stars/MMA-Lab/MMA)
+- **Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.17902)]
+- **DiS: Scalable Diffusion Models with State Space Backbone** - February 8, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.05608)] [[Code](https://github.com/feizc/DiS)] ![Stars](https://img.shields.io/github/stars/feizc/DiS)
+- **MMA: Activating Wider Areas in Image Super-Resolution** - March 13, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.08330)] [[Code]([https://github.com/MMA-Lab/MMA](https://github.com/ArsenalCheng/MMA))] ![Stars](https://img.shields.io/github/stars/ArsenalCheng/MMA)
 
 ## Point Cloud Analysis
 
