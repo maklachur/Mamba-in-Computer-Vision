@@ -18,37 +18,38 @@
 - [Other Tasks](#other-tasks)
 
 ## General Purpose
+- **SUM: Saliency Unification through Mamba for Visual Attention Modeling** - June 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.17815)] [[Code](https://github.com/Arhosseini77/SUM)] ![Stars](https://img.shields.io/github/stars/Arhosseini77/SUM)
 - **Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain** - May 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.18679)] [[Code](https://github.com/yws-wxs/Vim-F)] ![Stars](https://img.shields.io/github/stars/yws-wxs/Vim-F)
 - **FractalVMamba: Scalable Visual State Space Model with Fractal Scanning** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14480)]
 - **MSVMamba: Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14174)] [[Code](https://github.com/YuHengsss/MSVMamba)] ![Stars](https://img.shields.io/github/stars/YuHengsss/MSVMamba)
 - **Mamba-R: Vision Mamba ALSO Needs Registers** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14858)] [[Homepage](https://wangf3014.github.io/mambar-page/)] [[Code](https://github.com/wangf3014/Mamba-Reg)] ![Stars](https://img.shields.io/github/stars/wangf3014/Mamba-Reg)
-- **SUM: Saliency Unification through Mamba for Visual Attention Modeling** - June 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.17815)] [[Code](https://github.com/Arhosseini77/SUM)] ![Stars](https://img.shields.io/github/stars/Arhosseini77/SUM)
-- **SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time Series** - March 22, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.15360)] [[Code](https://github.com/badripatro/Simba)] ![Stars](https://img.shields.io/github/stars/badripatro/Simba)
 - **MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection** - Mar 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.19888)] [[Code](https://github.com/MambaMixer/M2)] ![Stars](https://img.shields.io/github/stars/MambaMixer/M2)
 - **Heracles: A Hybrid SSM-Transformer Model for High-Resolution Image and Time-Series Analysis** - Mar 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.18063)] [[Code](https://github.com/badripatro/heracles)] ![Stars](https://img.shields.io/github/stars/badripatro/heracles)
 - **PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.17695)] [[Code](https://github.com/ChenhongyiYang/PlainMamba)] ![Stars](https://img.shields.io/github/stars/ChenhongyiYang/PlainMamba)
+- **SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time Series** - March 22, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.15360)] [[Code](https://github.com/badripatro/Simba)] ![Stars](https://img.shields.io/github/stars/badripatro/Simba)
 - **EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba** - March 15, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.09977)] [[Code](https://github.com/TerryPei/EfficientVMamba)] ![Stars](https://img.shields.io/github/stars/TerryPei/EfficientVMamba)
 - **LocalMamba: Visual State Space Model with Windowed Selective Scan** - March 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.09338)] [[Code](https://github.com/hunto/LocalMamba)] ![Stars](https://img.shields.io/github/stars/hunto/LocalMamba)
 - **Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data** - February 8, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.05892)] [[Code](https://github.com/jacklishufan/Mamba-ND)] ![Stars](https://img.shields.io/github/stars/jacklishufan/Mamba-ND)
 - **VMamba: Visual State Space Model** - January 198arning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.09417)] [[Code](https://github.com/hustvl/Vim)] ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
-
+- **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.09417)] [[Code](https://github.com/hustvl/Vim)] ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
+  
 ## Image Classification, Object Detection, and Segmentation (General)
 
 ### Image Classification
-- **Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning** - April 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.15761)] [[Code](https://github.com/ChiShengChen/ResVMamba)] ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba)
+- **Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning** - February 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.15761)] [[Code](https://github.com/ChiShengChen/ResVMamba)] ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba)
 - **InsectMamba: Insect Pest Classification with State Space Model** - April 4, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.03611)]
 
 ### Object Detection
 - **RWKV-SAM: Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model** - June 27, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.19369)] [[Code](https://github.com/HarborYuan/ovsam)] ![Stars](https://img.shields.io/github/stars/HarborYuan/ovsam)
-- **Voxel Mamba: Group-Free State Space Models for Point Cloud-based 3D Object Detection** - June 18, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.10700)] [[Code](https://github.com/gwenzhang/Voxel-Mamba)] ![Stars](https://img.shields.io/github/stars/gwenzhang/Voxel-Mamba)
+- **Voxel Mamba: Group-Free State Space Models for Point Cloud-based 3D Object Detection** - June 15, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.10700)] [[Code](https://github.com/gwenzhang/Voxel-Mamba)] ![Stars](https://img.shields.io/github/stars/gwenzhang/Voxel-Mamba)
 - **Mamba-YOLO: SSMs-Based YOLO For Object Detection** - June 9, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.05835)] [[Code](https://github.com/HZAI-ZJNU/Mamba-YOLO)] ![Stars](https://img.shields.io/github/stars/HZAI-ZJNU/Mamba-YOLO)
-- **SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients** - May 5, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.01699)] [[Code](https://github.com/yash2629/S.O.A.R)] ![Stars](https://img.shields.io/github/stars/yash2629/S.O.A.R)
+- **SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients** - May 2, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.01699)] [[Code](https://github.com/yash2629/S.O.A.R)] ![Stars](https://img.shields.io/github/stars/yash2629/S.O.A.R)
 
 ### Segmentation
-- **Chen et al. (2024): Segmentation Model with Enhanced Mamba Scanning Strategies** - July 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.07865)]
-- **HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model** - July 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.06841)] [[Code](https://github.com/shendb2022/HTD-Mamba)] ![Stars](https://img.shields.io/github/stars/shendb2022/HTD-Mamba)
+- **Chen et al. (2024): Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces** - June 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.16518)]
+- **HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model** - July 9, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.06841)] [[Code](https://github.com/shendb2022/HTD-Mamba)] ![Stars](https://img.shields.io/github/stars/shendb2022/HTD-Mamba)
 - **Fusion-Mamba: Efficient Image Fusion with State Space Model** - April 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.07932)]
-- **MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection** - March 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.02148)] [[Code](https://github.com/txchen-USTC/MiM-ISTD)] ![Stars](https://img.shields.io/github/stars/txchen-USTC/MiM-ISTD)
+- **MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection** - March 4, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.02148)] [[Code](https://github.com/txchen-USTC/MiM-ISTD)] ![Stars](https://img.shields.io/github/stars/txchen-USTC/MiM-ISTD)
 
 ## Image Enhancement
 
