@@ -18,21 +18,19 @@
 - [Other Tasks](#other-tasks)
 
 ## General Purpose
-
-- **FractalVMamba: Scalable Visual State Space Model with Fractal Scanning** - May 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14480)]
+- **Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain** - May 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.18679)] [[Code](https://github.com/yws-wxs/Vim-F)] ![Stars](https://img.shields.io/github/stars/yws-wxs/Vim-F)
+- **FractalVMamba: Scalable Visual State Space Model with Fractal Scanning** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14480)]
 - **MSVMamba: Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14174)] [[Code](https://github.com/YuHengsss/MSVMamba)] ![Stars](https://img.shields.io/github/stars/YuHengsss/MSVMamba)
 - **Mamba-R: Vision Mamba ALSO Needs Registers** - May 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.14858)] [[Homepage](https://wangf3014.github.io/mambar-page/)] [[Code](https://github.com/wangf3014/Mamba-Reg)] ![Stars](https://img.shields.io/github/stars/wangf3014/Mamba-Reg)
-- **Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain** - May 28, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.18679)] [[Code](https://github.com/yws-wxs/Vim-F)] ![Stars](https://img.shields.io/github/stars/yws-wxs/Vim-F)
-- **SUM: Saliency Unification through Mamba for Visual Attention Modeling** - April 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.17815)] [[Code](https://github.com/Arhosseini77/SUM)] ![Stars](https://img.shields.io/github/stars/Arhosseini77/SUM)
-- **SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time Series** - April 24, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.15360)] [[Code](https://github.com/badripatro/Simba)] ![Stars](https://img.shields.io/github/stars/badripatro/Simba)
+- **SUM: Saliency Unification through Mamba for Visual Attention Modeling** - June 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.17815)] [[Code](https://github.com/Arhosseini77/SUM)] ![Stars](https://img.shields.io/github/stars/Arhosseini77/SUM)
+- **SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time Series** - March 22, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.15360)] [[Code](https://github.com/badripatro/Simba)] ![Stars](https://img.shields.io/github/stars/badripatro/Simba)
 - **MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection** - Mar 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.19888)] [[Code](https://github.com/MambaMixer/M2)] ![Stars](https://img.shields.io/github/stars/MambaMixer/M2)
 - **Heracles: A Hybrid SSM-Transformer Model for High-Resolution Image and Time-Series Analysis** - Mar 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.18063)] [[Code](https://github.com/badripatro/heracles)] ![Stars](https://img.shields.io/github/stars/badripatro/heracles)
 - **PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.17695)] [[Code](https://github.com/ChenhongyiYang/PlainMamba)] ![Stars](https://img.shields.io/github/stars/ChenhongyiYang/PlainMamba)
-- **EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba** - March 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.09977)] [[Code](https://github.com/TerryPei/EfficientVMamba)] ![Stars](https://img.shields.io/github/stars/TerryPei/EfficientVMamba)
+- **EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba** - March 15, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.09977)] [[Code](https://github.com/TerryPei/EfficientVMamba)] ![Stars](https://img.shields.io/github/stars/TerryPei/EfficientVMamba)
 - **LocalMamba: Visual State Space Model with Windowed Selective Scan** - March 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.09338)] [[Code](https://github.com/hunto/LocalMamba)] ![Stars](https://img.shields.io/github/stars/hunto/LocalMamba)
 - **Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data** - February 8, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.05892)] [[Code](https://github.com/jacklishufan/Mamba-ND)] ![Stars](https://img.shields.io/github/stars/jacklishufan/Mamba-ND)
-- **VMamba: Visual State Space Model** - January 19, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.10166)] [[Code](https://github.com/MzeroMiko/VMamba)] ![Stars](https://img.shields.io/github/stars/MzeroMiko/VMamba)
-- **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.09417)] [[Code](https://github.com/hustvl/Vim)] ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
+- **VMamba: Visual State Space Model** - January 198arning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.09417)] [[Code](https://github.com/hustvl/Vim)] ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
 
 ## Image Classification, Object Detection, and Segmentation (General)
 
