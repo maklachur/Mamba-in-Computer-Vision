@@ -146,7 +146,6 @@
 - **CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD Classification** - March 25, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.16520)]
 - **MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology** - March 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.06800)] [[Code](https://github.com/isyangshu/MambaMIL)] ![Stars](https://img.shields.io/github/stars/isyangshu/MambaMIL)
 - **MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models** - March 8, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.05160)]
-- **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.09417)] [[Code](https://github.com/hustvl/Vim)] ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
 
 ### Medical Image Segmentation  
 #### Medical 2D Image Segmentation
