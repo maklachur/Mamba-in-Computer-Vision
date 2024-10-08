@@ -1,4 +1,4 @@
-## Mamba in Vision: A Comprehensive Survey of Techniques and Applications [[Paper](https://arxiv.org/abs/2410.03105)]
+## Mamba in Vision: A Comprehensive Survey of Techniques and Applications [[Paper](https://arxiv.org/pdf/2410.03105)]
 ## Citation
 
 If you find this repository useful, please consider citing our paper:
