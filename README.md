@@ -1,3 +1,17 @@
+## Mamba in Vision: A Comprehensive Survey of Techniques and Applications [[Paper](https://arxiv.org/abs/2410.03105)]
+## Citation
+
+If you find this repository useful, please consider citing our paper:
+
+```
+@article{rahman2024vision,
+  title={Mamba in Vision: A Comprehensive Survey of Techniques and Applications},
+  author={Md Maklachur Rahman and Abdullah Aman Tutul and Ankur Nath and Lamyanba Laishram and Soon Ki Jung and Tracy Hammond},
+  journal={arXiv preprint arXiv:2410.03105},
+  year={2024}
+}
+```
+
 ## Mamba in Computer Vision Applications
 
 - [General Purpose](#general-purpose)
