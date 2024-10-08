@@ -45,8 +45,8 @@ If you find this repository useful, please consider citing our paper:
 - **EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba** - March 15, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.09977)] [[Code](https://github.com/TerryPei/EfficientVMamba)] ![Stars](https://img.shields.io/github/stars/TerryPei/EfficientVMamba)
 - **LocalMamba: Visual State Space Model with Windowed Selective Scan** - March 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.09338)] [[Code](https://github.com/hunto/LocalMamba)] ![Stars](https://img.shields.io/github/stars/hunto/LocalMamba)
 - **Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data** - February 8, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.05892)] [[Code](https://github.com/jacklishufan/Mamba-ND)] ![Stars](https://img.shields.io/github/stars/jacklishufan/Mamba-ND)
-- **VMamba: Visual State Space Model** - January 198arning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.10166)] [[Code](https://github.com/MzeroMiko/VMamba)] ![Stars](https://img.shields.io/github/stars/MzeroMiko/VMamba)
-- **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.09417)] [[Code](https://github.com/hustvl/Vim)] ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
+- **VMamba: Visual State Space Model** - January 18, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.10166)] [[Code](https://github.com/MzeroMiko/VMamba)] ![Stars](https://img.shields.io/github/stars/MzeroMiko/VMamba)
+- **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.09417)] [[Code](https://github.com/hustvl/Vim)]![Stars](https://img.shields.io/github/stars/hustvl/Vim)
   
 ## Image Classification, Object Detection, and Segmentation (General)
 
