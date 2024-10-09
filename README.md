@@ -3,9 +3,9 @@
 If you find this repository useful, please consider citing our paper:
 
 ```
-@article{rahman2024mamba,
-  title={Mamba in Vision: A Comprehensive Survey of Techniques and Applications},
-  author={Md Maklachur Rahman and Abdullah Aman Tutul and Ankur Nath and Lamyanba Laishram and Soon Ki Jung and Tracy Hammond},
+@article{rahman2024vision,
+  title={Mamba in Vision: Efficient Visual Representation Learning with Bidirectional State Space Model},
+  author={Rahman, Md Maklachur and Tutul, Abdullah Aman and Nath, Ankur and Laishram, Lamyanba and Jung, Soon Ki and Hammond, Tracy},
   journal={arXiv preprint arXiv:2410.03105},
   year={2024}
 }
