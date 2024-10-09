@@ -76,7 +76,7 @@ If you find this repository useful, please consider citing our paper:
 - **DVMSR: Distillated Vision Mamba for Efficient Super-Resolution** - May 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.03008)] [[Code](https://github.com/nathan66666/DVMSR)] ![Stars](https://img.shields.io/github/stars/nathan66666/DVMSR)
 - **FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining** - May 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.19450)]
 - **RetinexMamba: Retinex-based Mamba for Low-light Image Enhancement** - May 6, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.03349)] [[Code](https://github.com/YhuoyuH/RetinexMamba)] ![Stars](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba)
-- **SRODT: Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model** - April 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.07022)]
+- **SRODT: Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model** - April 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.17484)]
 -  **MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 GFLOPs** - April 22, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.13884)] [[Code](https://github.com/1024AILab/MambaUIE)] ![Stars](https://img.shields.io/github/stars/1024AILab/MambaUIE)
 - **PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement** - April 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.08444)] [[Code](https://github.com/weitunglin/pixmamba)] ![Stars](https://img.shields.io/github/stars/weitunglin/pixmamba)
 - **LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network** - March 3, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.01028)]
