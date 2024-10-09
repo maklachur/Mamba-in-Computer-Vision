@@ -71,7 +71,7 @@ If you find this repository useful, please consider citing our paper:
 - **BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement** - July 3, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.03535)] [[Code](https://ieee-dataport.org/open-access/bvi-lowlight-fully-registered-datasets-low-light-image-and-video-enhancement)] ![Stars](https://img.shields.io/github/stars/russellllaputa/BVI-Mamba)
 - **MLFSR: Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning** - June 23, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.16083)]
 - **LFMamba: Light Field Image Super-Resolution with State Space Model** - June 18, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.12463)]
-- **HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model** - June 9, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.12463)] [[Code](https://github.com/RsAI-lab/HDMba)] ![Stars](https://img.shields.io/github/stars/RsAI-lab/HDMba)
+- **HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model** - June 9, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.05700)] [[Code](https://github.com/RsAI-lab/HDMba)] ![Stars](https://img.shields.io/github/stars/RsAI-lab/HDMba)
 - **WaterMamba: Visual State Space Model for Underwater Image Enhancement** - May 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.08419)]
 - **DVMSR: Distillated Vision Mamba for Efficient Super-Resolution** - May 11, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.03008)] [[Code](https://github.com/nathan66666/DVMSR)] ![Stars](https://img.shields.io/github/stars/nathan66666/DVMSR)
 - **FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining** - May 29, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.19450)]
