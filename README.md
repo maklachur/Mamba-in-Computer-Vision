@@ -186,7 +186,7 @@ If you find this repository useful, please consider citing our paper:
 
 ## Medical 3D Image Segmentation
 
-- **TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction for 3D Medical Image Segmentation** - July 27, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.15584)] [[Code](https://github.com/ydchen0806/TokenUnify)] ![Stars](https://img.shields.io/github/stars/ydchen0806/TokenUnify)
+- **TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction for 3D Medical Image Segmentation** - July 27, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.16847)] [[Code](https://github.com/ydchen0806/TokenUnify)] ![Stars](https://img.shields.io/github/stars/ydchen0806/TokenUnify)
 - **xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart** - July 1, 2024, arXiv [[Paper](https://arxiv.org/abs/2407.01530)] [[Code](https://tianrun-chen.github.io/xLSTM-UNet)] ![Stars](https://img.shields.io/github/stars/tianrun-chen/xLSTM-UNet-Pytorch)
 - **T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation** - April 1, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.01065)] [[Code](https://github.com/isbrycee/T-Mamba)] ![Stars](https://img.shields.io/github/stars/isbrycee/T-Mamba)
 - **Mamba-HUNet: Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion** - March 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.17432)]
