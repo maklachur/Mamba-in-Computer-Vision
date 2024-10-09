@@ -321,7 +321,7 @@ If you find this repository useful, please consider citing our paper:
 
 	**_Summary:_** _GenVideo is the first large-scale AI-generated video detection dataset, featuring over one million real and AI-generated videos. It offers diverse video categories and generation techniques. The study introduces two evaluation methods and the Detail Mamba (DeMamba) module, which improves detector generalizability and robustness._
 
-- **Matten: Video Generation with Mamba-Attention** - May 5, 2024, arXiv [[Paper] (https://arxiv.org/abs/2405.03025)]
+- **Matten: Video Generation with Mamba-Attention** - May 5, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.03025)]
 
 	**_Summary:_** _Matten is a latent diffusion model with Mamba-Attention architecture for video generation. It combines spatial-temporal attention for local content modeling and bidirectional Mamba for global content modeling. Matten outperforms ViT and GAN-based models, with strong scalability for improved video quality._
 
