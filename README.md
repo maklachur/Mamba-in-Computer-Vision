@@ -78,8 +78,8 @@ If you find this repository useful, please consider citing our paper:
 - **RetinexMamba: Retinex-based Mamba for Low-light Image Enhancement** - May 6, 2024, arXiv [[Paper](https://arxiv.org/abs/2405.03349)] [[Code](https://github.com/YhuoyuH/RetinexMamba)] ![Stars](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba)
 - **SRODT: Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model** - April 26, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.17484)]
 -  **MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 GFLOPs** - April 22, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.13884)] [[Code](https://github.com/1024AILab/MambaUIE)] ![Stars](https://img.shields.io/github/stars/1024AILab/MambaUIE)
-- **PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement** - April 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2404.08444)] [[Code](https://github.com/weitunglin/pixmamba)] ![Stars](https://img.shields.io/github/stars/weitunglin/pixmamba)
-- **LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network** - March 3, 2024, arXiv [[Paper](https://arxiv.org/abs/2403.01028)]
+- **PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement** - April 12, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.08444)] [[Code](https://github.com/weitunglin/pixmamba)] ![Stars](https://img.shields.io/github/stars/weitunglin/pixmamba)
+- **LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network** - March 3, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.01028)]
 - **UVM-Net: U-shaped Vision Mamba for Single Image Dehazing** - February 15, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.04139)] [[Code](https://github.com/zzr-idam/UVM-Net)] ![Stars](https://img.shields.io/github/stars/zzr-idam/UVM-Net)
 - **FDVM-Net: FD-Vision Mamba for Endoscopic Exposure Correction** - February 14, 2024, arXiv [[Paper](https://arxiv.org/abs/2402.06378)] [[Code](https://github.com/zzr-idam/FDV-NET)] ![Stars](https://img.shields.io/github/stars/zzr-idam/FDV-NET)
 
