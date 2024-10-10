@@ -1,10 +1,10 @@
 ## Mamba in Vision: A Comprehensive Survey of Techniques and Applications [[Paper](https://arxiv.org/pdf/2410.03105)]
 
-If you find this repository useful, please consider citing our paper:
+If you find this repository helpful, please consider citing our paper:
 ```
 @article{rahman2024mamba,
   title={Mamba in Vision: A Comprehensive Survey of Techniques and Applications},
-  author={Md Maklachur Rahman and Abdullah Aman Tutul and Ankur Nath and Lamyanba Laishram and Soon Ki Jung and Tracy Hammond},
+  author={Rahman, Md Maklachur and Tutul, Abdullah Aman and Nath, Ankur and Laishram, Lamyanba and Jung, Soon Ki and Hammond, Tracy},
   journal={arXiv preprint arXiv:2410.03105},
   year={2024}
 }
@@ -88,8 +88,8 @@ If you find this repository useful, please consider citing our paper:
 - **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** - January 17, 2024, arXiv [[Paper](https://arxiv.org/abs/2401.09417)] [[Code](https://github.com/hustvl/Vim)] ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
 
 	<p><small><em>This paper addresses the challenge of position-sensitivity and global context in SSMs for visual data by introducing Vim, a vision backbone using bidirectional Mamba blocks. Vim replaces self-attention with bidirectional SSMs, improving visual representation learning while enhancing computational and memory efficiency.</em></small></p>
-	
-  
+
+ 
 ## Image Classification, Object Detection, and Segmentation (General)
 
 ### Image Classification
