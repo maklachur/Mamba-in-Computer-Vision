@@ -193,6 +193,10 @@ If you find this repository helpful, please consider citing our paper:
 
 	<p><small><em>FDVM-Net is a frequency-domain-based network for endoscopic image exposure correction, utilizing C-SSM blocks to combine convolutional local feature extraction with SSM's long-range dependency handling. The two-path architecture processes phase and amplitude information separately to reconstruct high-quality images.</em></small></p>
 
+- **ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement** - July 26, 2024, ICML ES-FoMo II [[Paper](https://openreview.net/forum?id=X9L6PatYhH)] [[Code](https://github.com/eashanadhikarla/ExpoMamba)] ![Stars](https://img.shields.io/github/stars/eashanadhikarla/expomamba)
+
+  	<p><small><em>ExpoMamba, a novel architecture that integrates components of the frequency state space within a modified U-Net, offering a blend of efficiency and effectiveness. This model is specifically optimized to address mixed exposure challenges—a common issue in low-light image enhancement—while ensuring computational efficiency.</em></small></p>
+
 ## Generation and Restoration
 
 - **DiM-3D: Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs** - June 7, 2024, arXiv [[Paper](https://arxiv.org/abs/2406.05038)]
